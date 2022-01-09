@@ -4,7 +4,7 @@
 
 <h3>The project cover the basic solution and the Advanced Solution as given below based on Audio Feature Extraction Method named "Mel-frequency cepstral coefficients (MFCC)" and Deep Learning Convolutional Neural Network (CNN).</h3>   
 
-<h3><b>Basic Solution:</b> Includes designing, building, training, validation and testing a model created to recognise numerals from 0 to 9 in the audio files.</h3>   
+<h3>*Basic Solution:* Includes designing, building, training, validation and testing a model created to recognise numerals from 0 to 9 in the audio files.</h3>   
 
 <h3><b>Advanced Solution:</b> Includes implementing the solution to predict the numeral based on a new audio test file. This model's solution can be applied to a Banking Application/Product and can be used for predicting a 4-digit passcode said by an authorised customer during on-call verification as part of login process to Internet Banking Account.</h3>   
 
